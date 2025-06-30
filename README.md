@@ -80,31 +80,7 @@ npm run build
 - **Tailwind CSS** - Utility-first CSS framework
 - **React Router** - Client-side routing
 - **Lucide React** - Beautiful icons
-- **Axios** - HTTP client (for future API integration)
-
-## 📁 Project Structure
-
-```
-src/
-├── components/          # Reusable UI components
-│   ├── Header.tsx      # Navigation and search header
-│   └── MovieCard.tsx   # Movie card component
-├── context/            # React context providers
-│   ├── ThemeContext.tsx    # Dark/light mode context
-│   └── WatchlistContext.tsx # Watchlist management
-├── pages/              # Page components
-│   ├── Home.tsx        # Home page with featured content
-│   ├── MovieDetails.tsx # Detailed movie information
-│   ├── Search.tsx      # Search functionality
-│   └── Watchlist.tsx   # User's watchlist
-├── services/           # API and data services
-│   └── api.ts          # Movie API service
-├── types/              # TypeScript type definitions
-│   └── index.ts        # Movie and app types
-├── App.tsx             # Main app component
-├── index.tsx           # App entry point
-└── index.css           # Global styles
-```
+- **Axios** - HTTP client (for future API integration.
 
 ## 🎯 Key Features Explained
 
