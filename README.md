@@ -65,7 +65,7 @@ npm install
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. Open [http://localhost:3001/]http://localhost:3001/) to view it in the browser.
 
 ### Build for Production
 
